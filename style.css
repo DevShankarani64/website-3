@@ -1,0 +1,28 @@
+ h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+
+            body{
+                background-color: #69c4bc;
+            }
+            .Header{
+                background-color: aqua;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .menu{
+                background-color: goldenrod;   
+            }
+
+            .grids{
+                background-color: greenyellow;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+
+            }
